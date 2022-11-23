@@ -1,0 +1,12 @@
+[
+  {
+    "key": "btnFirstSkip",
+    "androidValue": "com.m.qr:id/skip_button",
+    "androidType": "id"
+  },
+  {
+    "key": "btnSkip",
+    "androidValue": "com.m.qr:id/onboarding_skip_button",
+    "androidType": "id"
+  }
+]

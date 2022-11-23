@@ -1,0 +1,12 @@
+[
+  {
+    "key": "btnFrom",
+    "androidValue": "com.m.qr:id/rvmp_fragment_rtow_flight_selection_origin_holder",
+    "androidType": "id"
+  },
+  {
+    "key": "inputDestination",
+    "androidValue": "com.m.qr:id/rvmp_fragment_ond_selection_filter_edittext",
+    "androidType": "id"
+  }
+]
